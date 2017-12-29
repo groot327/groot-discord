@@ -1,1 +1,2 @@
-# groot-discord
+# groot-bot
+Groot on Discord

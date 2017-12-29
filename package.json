@@ -1,0 +1,36 @@
+{
+  "name": "groot-discord-master",
+  "version": "0.0.1",
+  "description": "Discord app",
+  "engines": {
+    "node": "^8.9.0",
+    "npm": "latest"
+  },
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.9.8",
+    "request": "^2.81.0",
+    "discord.js": "^11.1.0",
+    "bufferutil": "^3.0.2",
+    "erlpack": "^0.1.0",
+    "node-opus": "^0.2.6",
+    "opusscript": "^0.0.3",
+    "sodium": "^2.0.1",
+    "libsodium-wrappers": "^0.5.4",
+    "uws": "^0.14.5"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/groot327/groot-discord"
+  },
+  "keywords": [
+    "node",
+    "discord",
+    "express"
+  ],
+  "license": "MIT"
+}
